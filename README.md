@@ -43,7 +43,7 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/meetsuthar9406/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/meetsuthar9406/)
 - 📧 `meetsuthar9406@gmail.com`
 - - 🌐 Portfolio (Coming soon...)
 
