@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDB4ZHYxc25kb3k1cDQ1Ym9qMHhrMHQ0M3V2eGFkMzhnd2pxYmZsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Meet Suthar 👋</h1>
@@ -28,8 +28,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEETSUTHAR9406&show_icons=true&theme=calm&hide_border=true&border_radius=12" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEETSUTHAR9406&layout=compact&theme=calm&hide_border=true&border_radius=12" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MEETSUTHAR9406&show_icons=true&hide_border=true&border_radius=16&title_color=80CBC4&icon_color=80DEEA&text_color=E0F2F1&bg_color=0d1117" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEETSUTHAR9406&layout=compact&hide_border=true&border_radius=16&title_color=80CBC4&text_color=E0F2F1&bg_color=0d1117" width="48%">
 </p>
 
 ---
