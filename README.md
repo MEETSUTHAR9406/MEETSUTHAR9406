@@ -12,7 +12,7 @@
 - 🎓 Computer Engineering student (5th Sem)
 - 🌱 Learning DSA (in C), GitHub, and Web Development
 - 💡 Interested in Backend Dev & Open Source
-- 📘 Logging my journey in [DailyLog.md](https://github.com/MEETSUTHAR9406/My-Practice/blob/main/Notes/DailyLog.md)
+- 📘 Logging my journey in [DailyLog.md](https://github.com/MEETSUTHAR9406/My-Practice/blob/main/DailyLog.md)
 ---
 
 ## 🔧 Tech Toolbox
