@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%"/>
 </p>
 
 <h1 align="center">Hey, I'm Meet Suthar 👋</h1>
@@ -10,7 +10,7 @@
 ## 🧘 About Me
 
 - 🎓 Computer Engineering student (5th Sem)
-- 🌱 Learning DSA (in C), GitHub, and Web Development
+- 🌱 Learning DSA (in C/C++), GitHub, and Web Development
 - 💡 Interested in Backend Dev & Open Source
 - 📘 Logging my journey in [DailyLog.md](https://github.com/MEETSUTHAR9406/learning-journey/blob/main/DailyLog.md)
 ---
@@ -18,6 +18,7 @@
 ## 🔧 Tech Toolbox
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
