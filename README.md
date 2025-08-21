@@ -13,6 +13,7 @@
 - 🌱 Learning DSA (in C/C++), GitHub, and Web Development
 - 💡 Interested in Backend Dev & Open Source
 - 📘 Logging my journey in [DailyLog.md](https://github.com/MEETSUTHAR9406/learning-journey/blob/main/DailyLog.md)
+- 💻 My [*Leetcode*](https://leetcode.com/u/Meet_9406/) Profile.
 ---
 
 ## 🔧 Tech Toolbox
