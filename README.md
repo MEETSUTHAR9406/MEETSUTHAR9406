@@ -16,6 +16,12 @@
 - 💻 My [*Leetcode*](https://leetcode.com/u/Meet_9406/) Profile.
 ---
 
+# 📌 Notice  
+
+From **24th August to 7th September**, internal examination preparation and exams are scheduled.  
+During this time, contributions may reduce or pause temporarily.  
+Regular activity will resume after the exams.
+
 ## 🔧 Tech Toolbox
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
