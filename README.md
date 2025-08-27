@@ -20,6 +20,7 @@
 From **24th August to 7th September**, internal examination preparation and exams are scheduled.  
 During this time, contributions may reduce or pause temporarily.  
 Regular activity will resume after the exams.
+I might be committing something as much little as "Commenting on programs" to keep my streak alive.
 
 ## 🔧 Tech Toolbox
 
