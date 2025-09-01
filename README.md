@@ -22,6 +22,7 @@ During this time, contributions may reduce or pause temporarily.
 Regular activity will resume after the exams.
 I might be committing something as much little as "Commenting on programs" to keep my streak alive.
 Exams starting from Monday 1st september.
+- First exam of CAO [Completed].
 
 ## 🔧 Tech Toolbox
 
