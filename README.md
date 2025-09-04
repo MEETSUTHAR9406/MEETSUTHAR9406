@@ -25,6 +25,7 @@ Exams starting from Monday 1st september.
 - First exam of CAO [Completed].
 - Second exam of CN [Completed].
 - Third exam of ML [Completed].
+- Fourth exam of CNS [Completed].
 
 ## 🔧 Tech Toolbox
 
