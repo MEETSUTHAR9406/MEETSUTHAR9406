@@ -24,6 +24,7 @@ I might be committing something as much little as "Commenting on programs" to ke
 Exams starting from Monday 1st september.
 - First exam of CAO [Completed].
 - Second exam of CN [Completed].
+- Third exam of ML [Completed].
 
 ## 🔧 Tech Toolbox
 
