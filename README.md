@@ -28,6 +28,8 @@ Exams starting from Monday 1st september.
 - Fourth exam of CNS [Completed].
 - Fifth exam of FCL [Completed].
 
+And yeah, From tomorrow 06/09/2025. The learning will continue as before. Happy learning.
+
 ## 🔧 Tech Toolbox
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
