@@ -26,6 +26,7 @@ Exams starting from Monday 1st september.
 - Second exam of CN [Completed].
 - Third exam of ML [Completed].
 - Fourth exam of CNS [Completed].
+- Fifth exam of FCL [Completed].
 
 ## 🔧 Tech Toolbox
 
