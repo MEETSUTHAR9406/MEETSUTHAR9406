@@ -30,6 +30,8 @@ Exams starting from Monday 1st september.
 
 And yeah, From tomorrow 06/09/2025. The learning will continue as before. Happy learning.
 
+## Started the Journery again.
+
 ## 🔧 Tech Toolbox
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
