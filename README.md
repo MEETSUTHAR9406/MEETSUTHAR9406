@@ -15,22 +15,9 @@
 - 💻 My [*Leetcode*](https://leetcode.com/u/Meet_9406/) Profile.
 ---
 
-# 📌 Notice  
 
-From **24th August to 7th September**, internal examination preparation and exams are scheduled.  
-During this time, contributions may reduce or pause temporarily.  
-Regular activity will resume after the exams.
-I might be committing something as much little as "Commenting on programs" to keep my streak alive.
-Exams starting from Monday 1st september.
-- First exam of CAO [Completed].
-- Second exam of CN [Completed].
-- Third exam of ML [Completed].
-- Fourth exam of CNS [Completed].
-- Fifth exam of FCL [Completed].
-
-And yeah, From tomorrow 06/09/2025. The learning will continue as before. Happy learning.
-
-## Started the Journery again.
+## 🚀 Back to Learning
+Resumed my daily learning journey on **6th September 2025** — excited to continue building and growing consistently.
 
 ## 🔧 Tech Toolbox
 
@@ -59,11 +46,12 @@ And yeah, From tomorrow 06/09/2025. The learning will continue as before. Happy 
 
 ---
 
-## 📬 Let's Connect
+## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/meetsuthar9406/)
-- 📧 `meetsuthar9406@gmail.com`
-- - 🌐 Portfolio (Coming soon...)
+- 📧 [meetsuthar9406@gmail.com](mailto:meetsuthar9406@gmail.com)
+- 🌐 **Portfolio:** _Coming soon..._
+
 
 ---
 
