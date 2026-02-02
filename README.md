@@ -15,10 +15,6 @@
 - 💻 My [*Leetcode*](https://leetcode.com/u/Meet_9406/) Profile.
 ---
 
-
-## 🚀 Back to Learning
-Resumed my daily learning journey on **6th September 2025** — excited to continue building and growing consistently.
-
 ## 🔧 Tech Toolbox
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,15 +23,6 @@ Resumed my daily learning journey on **6th September 2025** — excited to conti
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEETSUTHAR9406&show_icons=true&hide_border=true&border_radius=16&title_color=80CBC4&icon_color=80DEEA&text_color=E0F2F1&bg_color=0d1117" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEETSUTHAR9406&layout=compact&hide_border=true&border_radius=16&title_color=80CBC4&text_color=E0F2F1&bg_color=0d1117" width="48%">
-</p>
 
 ---
 
